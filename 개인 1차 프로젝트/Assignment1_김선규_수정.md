@@ -8,7 +8,10 @@
 2. 연령과 성별에 따른 국내 및 해외의 게임 이용자 수는 어떻게 변화하는가?
 3. 강제적 게임 셧다운제는 왜 폐지되었고, 이후엔 어떠한 정책을 통해 청소년의 게임 중독을 방지할 수 있는가?
 4. 강제적 게임 셧다운제가 폐지된 지 4년 정도가 흐른 지금, 청소년들의 게임 이용 실태는 어떠하고 게임 중독 방지를 위한 정책은 어떤 식으로 진행이 되고 있는가? -->
-5. 정보화 시대가 빠르게 진행됨에 따라 시민들의 도서관 이용 실태 및 도서관의 유지는 어떻게 되고 있는가?
+<!-- 5. 정보화 시대가 빠르게 진행됨에 따라 시민들의 도서관 이용 실태 및 도서관의 유지는 어떻게 되고 있는가? -->
+6. 인기 자격증 응시생의 수와 해당 자격증에 연관된 취업률은 어떻게 변화했는가? 그리고 이를 통해 국가가 어떤 직종의 교육에 조금 더 힘을 쏟아야 하는가?
+(https://kosis.kr/statHtml/statHtml.do?sso=ok&returnurl=https%3A%2F%2Fkosis.kr%3A443%2FstatHtml%2FstatHtml.do%3Flist_id%3D387_38704_001%26obj_var_id%3D%26seqNo%3D%26tblId%3DDT_38701_N906%26vw_cd%3DMT_ZTITLE%26orgId%3D387%26path%3D%252FstatisticsList%252FstatisticsListIndex.do%26conn_path%3DMT_ZTITLE%26itm_id%3D%26lang_mode%3Dko%26scrId%3D%26)
+(https://kosis.kr/statHtml/statHtml.do?sso=ok&returnurl=https%3A%2F%2Fkosis.kr%3A443%2FstatHtml%2FstatHtml.do%3Flist_id%3DB17%26obj_var_id%3D%26seqNo%3D%26tblId%3DDT_1DA7E06S_NEW%26vw_cd%3DMT_ZTITLE%26orgId%3D101%26path%3D%252FstatisticsList%252FstatisticsListIndex.do%26conn_path%3DMT_ZTITLE%26itm_id%3D%26lang_mode%3Dko%26scrId%3D%26)
 
 ## #02. 관심사와 관련된 참고자료를 최대한 많이 조사하세요.
 
