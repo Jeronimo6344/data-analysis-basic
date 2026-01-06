@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+    <OGRVRTLayer name="서울시_도서관_데이터">
+        <SrcDataSource relativeToVRT="1">서울시_도서관_데이터.xlsx</SrcDataSource>
+        <!--Header=False-->
+        <SrcLayer>Sheet1</SrcLayer>
+        <Field name="도서관명" src="도서관명" type="String"/>
+        <Field name="시도명" src="시도명" type="String"/>
+        <Field name="시군구명" src="시군구명" type="String"/>
+        <Field name="도서관유형" src="도서관유형" type="String"/>
+        <Field name="휴관일" src="휴관일" type="String"/>
+        <Field name="평일운영시작시각" src="평일운영시작시각" type="Time"/>
+        <Field name="평일운영종료시각" src="평일운영종료시각" type="Time"/>
+        <Field name="토요일운영시작시각" src="토요일운영시작시각" type="Time"/>
+        <Field name="토요일운영종료시각" src="토요일운영종료시각" type="Time"/>
+        <Field name="공휴일운영시작시각" src="공휴일운영시작시각" type="Time"/>
+        <Field name="공휴일운영종료시각" src="공휴일운영종료시각" type="Time"/>
+        <Field name="열람좌석수" src="열람좌석수" type="Integer"/>
+        <Field name="자료수" src="자료수" type="Integer"/>
+        <Field name="대출가능일수" src="대출가능일수" type="Integer"/>
+        <Field name="소재지도로명주소" src="소재지도로명주소" type="String"/>
+        <Field name="도서관전화번호" src="도서관전화번호" type="String"/>
+        <Field name="제공기관코드" src="제공기관코드" type="Integer"/>
+        <Field name="제공기관명" src="제공기관명" type="String"/>
+        <GeometryType>wkbPoint</GeometryType>
+        <LayerSRS>EPSG:4326</LayerSRS>
+        <GeometryField encoding="PointFromColumns" x="경도" y="위도"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>

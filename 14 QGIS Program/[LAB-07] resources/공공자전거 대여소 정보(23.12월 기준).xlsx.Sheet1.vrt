@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+    <OGRVRTLayer name="공공자전거_대여소_정보">
+        <SrcDataSource relativeToVRT="1">공공자전거 대여소 정보(23.12월 기준).xlsx</SrcDataSource>
+        <!--Header=False-->
+        <SrcLayer>Sheet1</SrcLayer>
+        <Field name="대여소 번호" src="대여소 번호" type="Integer"/>
+        <Field name="보관소(대여소)명" src="보관소(대여소)명" type="String"/>
+        <Field name="자치구" src="자치구" type="String"/>
+        <Field name="상세주소" src="상세주소" type="String"/>
+        <Field name="설치시기" src="설치시기" type="Date"/>
+        <GeometryType>wkbPoint</GeometryType>
+        <LayerSRS>EPSG:4326</LayerSRS>
+        <GeometryField encoding="PointFromColumns" x="경도" y="위도"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
